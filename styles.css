@@ -1,0 +1,31 @@
+h1{
+            color: rgb(21, 21, 26);
+            background-color: rgb(252, 239, 251);
+        }
+body{
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            background-color: #a596dbd5;
+        }
+#log1{
+            background-color: #e3d3f1;
+            padding: 10px;
+            border-radius: 5px;
+            margin-bottom: 20px;
+            display: flex;
+        }
+#log2{
+            background-color: #e3d3f1;
+            padding: 10px;
+            border-radius: 5px;
+            margin-top: 20px;
+            text-align: center;
+        }
+.my-goals{
+            background-color: #f3e5f5;
+            padding: 10px;
+            border-radius: 5px;
+            
+        }
+
